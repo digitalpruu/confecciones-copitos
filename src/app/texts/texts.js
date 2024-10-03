@@ -1,5 +1,5 @@
 const title = "Confecciones Copitos";
-const email = "kimberlein1506@gmail.com";
+const email = "confeccionescopitos@gmail.com";
 const mensajeWhatsApp = encodeURIComponent(
     "¡Hola! Estoy muy interesado en tus productos de " + title + " y me gustaría recibir más información sobre ellos. Espero poder hablar pronto contigo para aclarar algunas dudas. ¡Gracias!"
 );
@@ -13,9 +13,7 @@ const textos = {
         title: title,
     },
     about: {
-        description1: "Confecciones Copitos se especializa en la creación de pijamas, blusas, sudaderas y buzos. Nuestra misión es ofrecer prendas cómodas y de alta calidad para cada ocasión. Nos inspiramos en el lema 'Un ave blanca' para diseñar cada pieza con un toque especial.",
-        description2: "En Confecciones Copitos, nos esforzamos por proporcionar productos que combinen estilo y confort. Explora nuestra colección y descubre cómo nuestras confecciones pueden mejorar tu vestuario."
-    },
+        description1: "Confecciones Copitos es un emprendimiento ubicado en Bogotá, dedicado a la confección de pijamas, blusas, chaquetas, sudaderas, entre otras prendas. Nos caracterizamos por ofrecer productos de excelente calidad a precios accesibles, donde buscamos siempre satisfacer a nuestros clientes con diseños cómodos y actuales. " },
     contact: {
         whatsappLink: `https://wa.me/${numeroWhatsApp}?text=${mensajeWhatsApp}`,
         email: email
@@ -28,7 +26,7 @@ const textos = {
         address: "", // Información no proporcionada
         phone: numeroWhatsApp,
         email: email,
-        facebook: "https://www.facebook.com/",
+        facebook: "https://www.facebook.com/profile.php?id=61565478751862&mibextid=ZbWKwL",
         instagram: "https://www.instagram.com/",
         whatsappLink: `https://wa.me/${numeroWhatsApp}?text=${mensajeWhatsApp}`
     },
